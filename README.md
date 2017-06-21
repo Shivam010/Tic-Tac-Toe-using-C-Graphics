@@ -12,8 +12,7 @@ To run the game locally on your system. Just follow the steps:
 
 And if you want to see the code or want to change something just open the .cpp file in any editor and do your work.*
 
-<b>*Note:</b> 
-Before compiling the code just make sure that your compiler supports the corresponding hearder files used because the game is based on the late 90's C/C++.
+<b>*Note:</b><br>Before compiling the code just make sure that your compiler supports the corresponding hearder files used because the game is based on the late 90's C/C++.
 If not, follow the following steps:
 
 1. Open the "Requirements" folder and copy the files named, "graphics.h" and "winbgim.h", and paste them in the "/MinGW/include/" folder.
